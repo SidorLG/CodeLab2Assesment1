@@ -1,0 +1,9 @@
+Jeff Jones,30,M,29 Swinton Avenue Bristol,34000
+Sarah Berts,29,F,1 Rickard Lane Bath,35000
+Billy Bob,22,M,2a Gosford Flats Bath,20000
+Gary Stone,26,M,19 The View Compton Dando,30000
+jeff Rodgers,51,M,81 Clifton Heights,50000
+Fiona May,55,F,2 The Shallows Bristol,53000
+Harry Pane,24,M,Spring Bottom Trowbridge,23000
+Lucy Goater,27,F,Fresh Meadow Lane Westwood,28000
+JeFf Bloggs,44,M,19 Lynford Avenue Bath,25000

@@ -1,0 +1,4 @@
+Newcastle United,Steve Bruce,1892,St James Park,52305,nufc.png
+Southampton,Ralph Hasenhüttl,1885,St Marys,32384,saints.png
+Manchester Utd,Ole Gunnar Solskjær,1902,Old Trafford,74140,mufc.png
+Tottenham Hotspurs,Jose Mourinho,1892,White Hart Lane,83459,spurs.png
