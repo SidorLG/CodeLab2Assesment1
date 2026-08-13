@@ -48,7 +48,7 @@ public:
 };
 bool loadBooks(vector<Book>& library) // Loads all books from the external file into the vector
 {
-    ifstream file("resources/bookData.txt"); // Opens the book data file for reading
+    ifstream file("bookData.txt"); // Opens the book data file for reading
     if (!file.is_open()) // Checks whether the file was opened successfully
     {
         cerr << "Error: Could not open bookData.txt." << endl; // Displays an error if the file cannot be opened
@@ -81,7 +81,7 @@ bool loadBooks(vector<Book>& library) // Loads all books from the external file 
 }
 void saveBooks(const vector<Book>& library) // Saves all current books back to the file
 {
-    ofstream file("resources/bookData.txt"); // Opens the file for writing
+    ofstream file("bookData.txt"); // Opens the file for writing
     if (!file.is_open()) // Checks whether the file can be opened
     {
         cerr << "Error: Could not save book data." << endl; // Displays an error if saving fails
